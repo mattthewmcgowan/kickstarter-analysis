@@ -35,4 +35,5 @@ During the analysis one thing that did come to mind was, "WHO did the funding?" 
 - What are some other possible tables and/or graphs that we could create?
 
 A simple bar chart reflecting the difference between number of Total Projects versus the Number of Successful campaigns. 
+
 <img width="500" alt="OutcomeBasedOnGoal2" src="https://user-images.githubusercontent.com/106042900/172067600-ba31f8f3-1605-463d-97b6-fb2acc2b0591.png">
